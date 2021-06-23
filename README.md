@@ -1,1 +1,3 @@
-# 6-2021-cohort-week-1-
+# Nucamp instructor copy
+
+
