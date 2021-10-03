@@ -1,3 +1,3 @@
-# Nucamp instructor copy
+# Nucamp web development fundamentals week 1
 
 
